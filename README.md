@@ -1,5 +1,5 @@
 # Change timezone CET <-> GMT
-A simple bash script to quickle change timezone to either CET or GMT on Linux.
+A simple bash script to quickly change timezone to either CET or GMT on Linux.
 
 ## Install
 1. clone this repo
