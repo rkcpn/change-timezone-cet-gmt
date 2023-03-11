@@ -6,9 +6,9 @@ A simple bash script to quickle change timezone to either CET or GMT on Linux.
 2. make chtmzn.sh executable: 'chmod +x chtmzn.sh'
 
 ## Usage
-    './chtmzn.sh [-c cet] [-g gmt] [-h help]'
+'./chtmzn.sh [-c cet] [-g gmt] [-h help]'
 
-    Options:
-        -c, --cet:		change to CET
-        -g, --gmt:		change to GMT
-        -h, --help:		get this message
+Options:
+    -c, --cet:		change to CET
+    -g, --gmt:		change to GMT
+    -h, --help:		get this message
